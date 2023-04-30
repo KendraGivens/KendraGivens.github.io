@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<meta http-equiv="refresh" content="0; URL=../assets/resume.pdf" />
+<meta http-equiv="refresh" content="0; URL=../assets/Resume.pdf" />
