@@ -8,7 +8,7 @@
 layout: page
 ---
 
-![Kendra Givens =](assets/images/Picture3.JPG)
+![Kendra Givens =](assets/images/Picture3.jpg)
 
 I am an undergraduate computer science student at Middle Tennessee State University. I have previously worked with Dr. Joshua Phillips using transformers to process high throughput DNA sequences. I am excited to be joining Dr. Zackory Erickson's Robotic Caregiving and Human Interaction Lab this summer at Carnegie Mellon Univeristy. 
 
