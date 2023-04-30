@@ -8,57 +8,21 @@
 layout: page
 ---
 
-![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+![Kendra Givens =](assets/images/ProfilePicture.png)
 
-I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
-My research focuses on developing new robot learning, mobile manipulation, and sensing methods, with applications in physical human-robot interaction and healthcare.
-
-Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
+I am an undergraduate computer science student at Middle Tennessee State University. I have previously worked with Dr. Joshua Phillips using transformers to process high throughput DNA sequences. I am excited to be joining Dr. Zackory Erickson's Robotic Caregiving and Human Interaction Lab this summer at Carnegie Mellon Univeristy. 
 
 ---
 
 ### News
-
-  * Virtual Experience Chair for Conference on Robot Learning (CoRL) 2023
-  * Organizing RO-MAN 2023 special session on Human-Agent/Robot Interaction in Healthcare and Medicine
-  * Organizing ICRA 2023 workshop on [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](http://sirslab.diism.unisi.it/WorkshopManipulation/index.html)
-  * Chair at IROS 2022 session on Art and Entertainment and Manipulation
-  * Co-chair at ICRA 2022 session on Physical HRI
-  * Area Chair for CoRL 2022
-  * Associate Editor for RO-MAN 2022 
-  * Organizing IROS 2022 workshop [Proximity Perception - Towards Next-Generation Multi-Modal Sensing in Soft Structures](https://proxelsandtaxels.org/en/)
-  * Invited talk at RSS 2022 workshop on [Close Proximity Human-Robot Collaboration](https://sites.google.com/colorado.edu/rss-22-close-proximity-hrc/)
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
+3/3/23 Accepted into the CMU RISS REU under Dr. Erickson!
+ 
 
 ---
 
 ### Contact
-**Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
-Please check my calendar to see if I am available prior to suggesting a meeting time.
-
-**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
-
-**Address**  
-Carnegie Mellon University  
-Robotics Institute  
-5000 Forbes Ave  
-Pittsburgh, PA 15213 USA
+**Email**: klg6z@mtmail.mtsu.edu
+**Linked IN** https://www.linkedin.com/in/kendra-givens-8bb762189/
 
 ---
 
-### Teaching
-
-Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
-Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
-Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
-Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
-
----
-
-### Extra links
-You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
-
-In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
